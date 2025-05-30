@@ -3,7 +3,7 @@
 This is a web-based **Tic Tac Toe** game built with **HTML, CSS, and JavaScript** — featuring an unbeatable AI opponent using the **Minimax algorithm**.
 
 ## 🔥 Live Demo
-👉 [Play Now](https://yourusername.github.io/tic-tac-toe-ai)  
+👉 [Play Now](https://rohithvarmasuraparaju.github.io/tic-tac-toe-ai/)  
 *(Replace with your GitHub Pages link)*
 
 ---
